@@ -24,7 +24,7 @@ export const Profile = styled(Link)`
 
     > img {
         width: 50px;
-        height: 56px;
+        height: 50px;
         border-radius: 50%;
     }
 

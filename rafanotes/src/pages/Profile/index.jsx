@@ -1,7 +1,6 @@
 import { FiArrowLeft, FiUser, FiMail, FiLock, FiCamera } from 'react-icons/fi';
 
 import { Link } from 'react-router-dom';
-
 import { Input } from '../../components/Input';
 import { Button } from '../../components/Button';
 
@@ -20,7 +19,7 @@ export function Profile(){
                 <Avatar>
                     <img 
                         src="https://github.com/rafaelmarttins.png" 
-                        alt="Foto do usuário" 
+                        alt="Foto do usuário"
                     />
                     
                     <label htmlFor="Avatar">
